@@ -59,3 +59,18 @@ Encontré obras de artistas contemporáneos que muestran una imagen de sí mismo
 La exposición te pregunta en un momento: ¿En cuántos sitios ha aparecido tu cara hoy? Al desbloquear el móvil, cuando accedes al portal de una casa, en un post en redes sociales, un vídeo, la foto que compartes por mensaje privado…
 
 Me deja una reflexión final que me gustaría compartiros: Qué pasa con todos esos sistemas de reconocimiento facial cuando usamos máscaras (o mascarillas en todo este tiempo), a quién pretendo parecerme cuando me aplico determinado filtro en una fotografía, o cuando añado un atributo particular en mi cara.
+
+# Ver algunas obras en 3D
+
+Descubrí que hay muchas obras que están disponibles en los propios catálogos de los museos, o incluso los encuentras en la galería de modelos 3D sketchfab.
+
+* [Escultura del dios del pacífico A'a](https://sketchfab.com/3d-models/statue-of-aa-static-e4dd6d342fa044b99732b484985797b6)
+* [Estatuilla de terracota. 4000 - 3500 a.C](https://sketchfab.com/3d-models/28-idol-6583342f8fd5499c9130a6ff69cb1cb5)
+* [Reliquia de cabeza masculina. Etiopia](https://sketchfab.com/3d-models/an-ethiopian-metal-head-reliquary-71266c5efc7d45cb8d5a01f6ee57de3c)
+
+Obras de la colección del British Museum para ver de cerca:
+
+* [Virgen con Niño entronada](https://www.britishmuseum.org/collection/object/H_1956-0701-1)
+* [Figura Korwar](https://www.britishmuseum.org/collection/object/E_Oc1865-0503-3)
+* [Bellos consejos](https://www.britishmuseum.org/collection/object/P_1975-1025-420-20)
+
